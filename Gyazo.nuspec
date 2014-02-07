@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Gyazo</id>
+    <title>Gyazo</title>
+    <version>2.0.2</version>
+    <authors>Nota Inc</authors>
+    <owners>Oleksiy Turchanikov</owners>
+    <summary>Gyazo - The Easiest Way to Capture Your Screen</summary>
+    <description>Gyazo is an app that makes a screenshot and instantly shares it via web</description>
+    <projectUrl>http://gyazo.com</projectUrl>
+    <tags>Gyazo screenshot share</tags>
+    <copyright>Nota Inc</copyright>
+    <licenseUrl>https://gyazo.com/doc/terms</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <!--<iconUrl>https://raw.github.com/__CHOCO_PKG_OWNER_REPO__/master/Gyazo/Gyazo.png</iconUrl>-->
+    <!--<dependencies>
+      <dependency id="" version="" />
+    </dependencies>-->
+    <releaseNotes></releaseNotes>
+  </metadata>
+  <files>
+    <file src="tools\**" target="tools" />
+  </files>
+</package>
